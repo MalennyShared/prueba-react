@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gitHub.io/prueba-react/static/css/main.55ae3c99.css",
+    "main.js": "/gitHub.io/prueba-react/static/js/main.25a20acc.js",
+    "static/js/787.d85b9250.chunk.js": "/gitHub.io/prueba-react/static/js/787.d85b9250.chunk.js",
+    "static/media/logo.svg": "/gitHub.io/prueba-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gitHub.io/prueba-react/index.html",
+    "main.55ae3c99.css.map": "/gitHub.io/prueba-react/static/css/main.55ae3c99.css.map",
+    "main.25a20acc.js.map": "/gitHub.io/prueba-react/static/js/main.25a20acc.js.map",
+    "787.d85b9250.chunk.js.map": "/gitHub.io/prueba-react/static/js/787.d85b9250.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55ae3c99.css",
+    "static/js/main.25a20acc.js"
+  ]
+}
